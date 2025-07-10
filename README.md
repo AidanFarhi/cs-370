@@ -1,3 +1,1 @@
-Python version:
-
-Python 3.13.5
+Python version 3.12
